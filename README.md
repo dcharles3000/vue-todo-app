@@ -1,2 +1,2 @@
-# vue-todo-app
-A simple todo app build with vue.js
+# Todo
+A todo web application
